@@ -4,9 +4,10 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import ContextSample from './ContextSample';
+import Counter from './Counter';
 
 ReactDOM.render(
-  <App />,
+  <Counter />,
   document.getElementById('root')
 );
 
